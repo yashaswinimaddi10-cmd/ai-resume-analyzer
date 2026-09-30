@@ -1,0 +1,43 @@
+skill,category,aliases
+python,programming,py
+java,programming,
+c++,programming,cpp
+c#,programming,csharp
+javascript,programming,js
+sql,databases,structured query language
+mongodb,databases,
+excel,tools,microsoft excel;ms excel
+power bi,tools,powerbi
+tableau,tools,
+git,tools,github
+streamlit,tools,
+pandas,data,
+numpy,data,
+statistics,data,
+matplotlib,visualization,
+plotly,visualization,
+machine learning,ml,ml
+deep learning,ml,dl
+scikit-learn,ml,sklearn;scikit learn
+tensorflow,ml,
+pytorch,ml,torch
+keras,ml,
+cnn,ml,convolutional neural network
+nlp,nlp,natural language processing
+transformers,nlp,
+hugging face,nlp,huggingface
+spacy,nlp,
+llm,ai,large language model;large language models;llms
+rag,ai,retrieval augmented generation
+langchain,ai,
+opencv,computer vision,cv2
+yolo,computer vision,
+fastapi,backend,
+flask,backend,
+django,backend,
+rest api,backend,api;apis;restful api
+docker,devops,
+mlflow,mlops,
+aws,cloud,amazon web services
+azure,cloud,
+gcp,cloud,google cloud

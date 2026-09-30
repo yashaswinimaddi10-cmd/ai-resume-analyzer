@@ -1,0 +1,8 @@
+role,required_skills
+Data Analyst,python;sql;excel;pandas;power bi
+Machine Learning Engineer,python;machine learning;scikit-learn;fastapi;docker
+AI Engineer,python;deep learning;llm;rag;rest api
+NLP Engineer,python;nlp;transformers;hugging face
+Computer Vision Engineer,python;opencv;cnn;yolo
+Data Scientist,python;statistics;machine learning;pandas;matplotlib;sql
+Python Developer,python;git;flask;rest api;sql
